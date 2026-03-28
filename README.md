@@ -37,13 +37,18 @@ Orange 3 支援多種外掛元件
 # Orange 3 Download
 
 + 下載 Windows 免安裝版本 (Portable Orange) --> 教學採用此方法
+
 檔名: Orange3-3.40.0.zip
+
 下載: https://download.biolab.si/download/files/Orange3-3.40.0.zip
 
 + 使用方法: 解壓縮 zip 檔案即可以使用
+
 方法1. 開啟 Orange 檔案 --> 教學採用此方法
+
 方法2. 命令提示字元輸入: python -m Orange.canvas
 
 + 下載 windows, macOS, Linux 安裝檔
+
 [https://orangedatamining.com/download/#windows]
 
