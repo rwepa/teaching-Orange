@@ -34,4 +34,7 @@ Orange 3 支援多種外掛元件
 17.	Orange3-WorldHappiness		世界社會經濟指標
 18.	Orange-SNOM			掃描近場光學顯微術
 
+# Orange 3 Download
+下載 windows 免安裝檔, 支援 macOS, Linux
+[https://orangedatamining.com/download/#windows]
 
