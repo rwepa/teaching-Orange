@@ -13,3 +13,25 @@ Orange 3 包括以下特性
 + 模型訓練
 + 部署
 
+# Orange3 add-ons
+Orange 3 支援多種外掛元件
+1.	Orange3-Associate		關聯規則
+2.	Orange3-Bioinformatics		生物資訊
+3.	Orange3-Educational		機器學習教育示範
+4.	Orange3-Explain		重要特徵解釋
+5.	Orange3-Fairness		公平感知 AI 工具
+6.	Orange3-Geo			地理資料視覺化
+7.	Orange3-ImageAnalytics		影像分析
+8.	Orange3-Network		網路分析
+9.	Orange3-Prototypes		原型
+10.	Orange3-Pumice		教育活動
+11.	Orange3-SingleCell		單細胞分析
+12.	Orange-Spectroscopy		光譜分析
+13.	Orange3-Survival-Analysis	存活分析
+14.	Orange3-Text			文字探勘
+15.	Orange3-Textable		文字探勘, 編碼
+16.	Orange3-Timeseries		時間序列
+17.	Orange3-WorldHappiness		世界社會經濟指標
+18.	Orange-SNOM			掃描近場光學顯微術
+
+
