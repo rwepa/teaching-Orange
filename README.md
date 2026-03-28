@@ -48,6 +48,8 @@ Orange 3 支援多種外掛元件
 
 方法1. 開啟 Orange 檔案 --> 教學採用此方法
 
+![Orange](https://github.com/rwepa/teaching-Orange/blob/main/img/orange.png)
+
 方法2. 命令提示字元輸入: python -m Orange.canvas
 
 + 下載 windows, macOS, Linux 安裝檔
