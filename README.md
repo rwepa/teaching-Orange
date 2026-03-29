@@ -34,7 +34,7 @@ Orange 3 支援多種外掛元件
 17.	Orange3-WorldHappiness		世界社會經濟指標
 18.	Orange-SNOM			掃描近場光學顯微術
 
-# Orange 3 下載
+# Orange 3 Download
 
 + 步驟1 下載 Windows 免安裝版本 (Portable Orange) --> 教學採用此方法
 
@@ -50,7 +50,7 @@ Orange 3 支援多種外掛元件
 
 + 步驟2 解壓縮 zip 檔案
 
-+ 步驟3 開啟 Orange
+# 開啟 Orange
 
 開啟方法1. 開啟 Orange 檔案 --> 教學採用此方法
 
