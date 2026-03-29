@@ -26,13 +26,13 @@ Orange 3 支援多種外掛元件
 9.	Orange3-Prototypes		原型
 10.	Orange3-Pumice		教育活動
 11.	Orange3-SingleCell		單細胞分析
-12.	Orange3-Spectroscopy		光譜分析
+12.	Orange-Spectroscopy		光譜分析
 13.	Orange3-Survival-Analysis	存活分析
 14.	Orange3-Text			文字探勘
 15.	Orange3-Textable		文字探勘, 編碼
 16.	Orange3-Timeseries		時間序列
 17.	Orange3-WorldHappiness		世界社會經濟指標
-18.	Orange3-SNOM			掃描近場光學顯微術
+18.	Orange-SNOM			掃描近場光學顯微術
 
 # Orange 3 下載
 
