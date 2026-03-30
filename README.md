@@ -56,5 +56,15 @@ Orange 3 支援多種外掛元件
 
 ![Orange](https://github.com/rwepa/teaching-Orange/blob/main/img/orange.png)
 
+# 第1章 Orange 簡介
+
+[https://github.com/rwepa/teaching-Orange/blob/main/01_orange_introduction.pdf]
+
+# 第2章 第2章 File and DataTable
+
++ https://github.com/rwepa/teaching-Orange/blob/main/02_file_and_dataTable.pdf
+
+
+
 開啟方法2. 命令提示字元輸入: python -m Orange.canvas
 
