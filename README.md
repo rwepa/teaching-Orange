@@ -1,4 +1,4 @@
-<img width="1206" height="577" alt="image" src="https://github.com/user-attachments/assets/e478104f-9d55-4027-9cb7-a40ee1d993b5" /><img width="920" height="499" alt="image" src="https://github.com/user-attachments/assets/a20af1c1-2aed-4e03-b435-b75208cd96ff" /># teaching-Orange
+# teaching-Orange
 Orange 是一款功能強大的開放原始碼的免費機器學習軟體，以 Python 編寫，廣泛用於資料科學、機器學習和資料視覺化教學。它適合初學者，暨無需編寫程式碼即可使用其拖放介面，也適合進階使用者結合 Python 程式進行資料處理。
 
 # Orange 3 features
