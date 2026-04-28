@@ -60,6 +60,6 @@ Orange 3 支援多種外掛元件
 
 + https://github.com/rwepa/teaching-Orange/blob/main/01_orange_introduction.pdf
 
-# 第2章 第2章 File and DataTable
+# 第2章 File and DataTable
 
 + https://github.com/rwepa/teaching-Orange/blob/main/02_file_and_dataTable.pdf
