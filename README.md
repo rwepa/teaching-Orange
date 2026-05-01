@@ -92,17 +92,17 @@ Orange 3 支援多種外掛元件
 
 + 大綱
 
-1.Interactive Visualizations 簡介
+  1.Interactive Visualizations 簡介
 
-2.互動式選取
+  2.互動式選取
 
-3.信賴橢圓 (Confidence Ellipse)
+  3.信賴橢圓 (Confidence Ellipse)
 
-4.視覺化結果
+  4.視覺化結果
 
-5.練習：heart_disease.tab (心臟病資料集)
+  5.練習：heart_disease.tab (心臟病資料集)
 
-6.結論
+  6.結論
 
 # 4. Visualization of Data Subsets ~ 子集合 -> 繪圖
 
@@ -112,13 +112,13 @@ Orange 3 支援多種外掛元件
 
 + 大綱
 
-1.開啟範例檔 (Visualization of Data Subsets)
+  1.開啟範例檔 (Visualization of Data Subsets)
 
-2.選取子集合
+  2.選取子集合
 
-3.子集合視覺化
+  3.子集合視覺化
 
-4.練習：housing (房價預測資料集)
+  4.練習：housing (房價預測資料集)
 
-5.結論
+  5.結論
 
