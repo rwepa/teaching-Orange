@@ -103,3 +103,22 @@ Orange 3 支援多種外掛元件
 5.練習：heart_disease.tab (心臟病資料集)
 
 6.結論
+
+# 4. Visualization of Data Subsets ~ 子集合 -> 繪圖
+
++ https://github.com/rwepa/teaching-Orange/blob/main/04_visualization_of_data_subsets.pdf
+
++ California Housing Prices 加州房屋價格資料集下載: https://github.com/rwepa/DataDemo/blob/master/california_housing_prices.csv
+
++ 大綱
+
+1.開啟範例檔 (Visualization of Data Subsets)
+
+2.選取子集合
+
+3.子集合視覺化
+
+4.練習：housing (房價預測資料集)
+
+5.結論
+
