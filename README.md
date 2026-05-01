@@ -62,13 +62,13 @@ Orange 3 支援多種外掛元件
 
 + 大綱
 
-1.Orange 簡介
+  1.Orange 簡介
 
-2.Orange 安裝
+  2.Orange 安裝
 
-3.Orange 使用
+  3.Orange 使用
 
-4.Q & A
+  4.Q & A
 
 # 第2章 File and DataTable
 
@@ -76,15 +76,15 @@ Orange 3 支援多種外掛元件
 
 + 大綱
 
-1.Orange 使用
+  1.Orange 使用
 
-2.內建範例 File and Data Table
+  2.內建範例 File and Data Table
 
-3.散佈圖 (Scatter Plot)
+  3.散佈圖 (Scatter Plot)
 
-4.盒鬚圖 (Boxplot)
+  4.盒鬚圖 (Boxplot)
 
-5.Q & A
+  5.Q & A
 
 # 第3章 Interactive Visualizations~信賴橢圓
 
