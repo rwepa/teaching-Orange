@@ -122,7 +122,7 @@ Orange 3 支援多種外掛元件
 
   5.結論
 
-  # 5. Classification Tree 分類樹
+# 第5章 Classification Tree 分類樹
   
 + https://github.com/rwepa/teaching-Orange/blob/main/05_classification_tree.pdf
 
