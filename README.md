@@ -104,7 +104,7 @@ Orange 3 支援多種外掛元件
 
   6.結論
 
-# 4. Visualization of Data Subsets ~ 子集合 -> 繪圖
+# 第4章 Visualization of Data Subsets ~ 子集合 -> 繪圖
 
 + https://github.com/rwepa/teaching-Orange/blob/main/04_visualization_of_data_subsets.pdf
 
