@@ -122,3 +122,24 @@ Orange 3 支援多種外掛元件
 
   5.結論
 
+  # 5. Classification Tree 分類樹
+  
++ https://github.com/rwepa/teaching-Orange/blob/main/05_classification_tree.pdf
+
++ 健康與運動資料集下載: https://github.com/rwepa/DataDemo/blob/master/health_data.xlsx
+
++ health_data.xlsx 資料集下載: https://github.com/rwepa/DataDemo#health_dataxlsx
+
++ 大綱
+
+  1.認識人工智慧與機器學習的演進
+
+  2.監督式學習與非監督式學習
+
+  3.決策樹 (Decision tree)
+
+  4.監督式學習 – iris 範例
+
+  5.練習：健康與運動資料集-決策樹應用
+
+  6.結論
